@@ -13,14 +13,14 @@ git clone https://github.com/travishorn/learn-nextjs
 
 Steps in the tutorial are tagged with Git tags.
 
-| Tag    | Description                                                                                                                                   |
-|:-------|:----------------------------------------------------------------------------------------------------------------------------------------------|
-| v0.1.0 | [Updating the UI with JavaScript](https://nextjs.org/learn/foundations/from-javascript-to-react/updating-ui-with-javascript)                  |
-| v0.2.0 | [Getting Started with React](https://nextjs.org/learn/foundations/from-javascript-to-react/getting-started-with-react)                        |
-| v0.3.0 | [Building UI with Components](https://nextjs.org/learn/foundations/from-javascript-to-react/building-ui-with-components)                      |
-| v0.4.0 | [Displaying Data with Props](https://nextjs.org/learn/foundations/from-javascript-to-react/displaying-data-with-props)                        |
-| v0.5.0 | [Adding Interactivity with State](https://nextjs.org/learn/foundations/from-javascript-to-react/adding-interactivity-with-state])             |
-| v0.6.0 | [From React to Next.js - Getting Started with Next.js](https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs) |
+| Tag                                                              | Description                                                                                                                                   |
+|:-----------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
+| [v0.1.0](https://github.com/travishorn/learn-nextjs/tree/v0.1.0) | [Updating the UI with JavaScript](https://nextjs.org/learn/foundations/from-javascript-to-react/updating-ui-with-javascript)                  |
+| [v0.2.0](https://github.com/travishorn/learn-nextjs/tree/v0.2.0) | [Getting Started with React](https://nextjs.org/learn/foundations/from-javascript-to-react/getting-started-with-react)                        |
+| [v0.3.0](https://github.com/travishorn/learn-nextjs/tree/v0.3.0) | [Building UI with Components](https://nextjs.org/learn/foundations/from-javascript-to-react/building-ui-with-components)                      |
+| [v0.4.0](https://github.com/travishorn/learn-nextjs/tree/v0.4.0) | [Displaying Data with Props](https://nextjs.org/learn/foundations/from-javascript-to-react/displaying-data-with-props)                        |
+| [v0.5.0](https://github.com/travishorn/learn-nextjs/tree/v0.5.0) | [Adding Interactivity with State](https://nextjs.org/learn/foundations/from-javascript-to-react/adding-interactivity-with-state])             |
+| [v0.6.0](https://github.com/travishorn/learn-nextjs/tree/v0.6.0) | [From React to Next.js - Getting Started with Next.js](https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs) |
 
 Checkout the tag/step you want to view
 
